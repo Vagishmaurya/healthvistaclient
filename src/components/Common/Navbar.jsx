@@ -49,7 +49,11 @@ function Navbar() {
         {/* Logo */}
         <Link to="/">
           {/* <img src={logo} alt="Logo" width={160} height={32} loading="lazy" /> */}
+<<<<<<< HEAD
           <h2 className="font-bold text-white text-lg">HealthVistaHub.. </h2>
+=======
+          <h2 className="font-bold text-white text-lg">Elite Coding..</h2>
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
         </Link>
         {/* Navigation links */}
         <nav className="hidden md:block">

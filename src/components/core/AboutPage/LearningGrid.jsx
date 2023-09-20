@@ -5,15 +5,23 @@ import CTAButton from "../../core/HomePage/Button";
 const LearningGridArray = [
     {
       order: -1,
+<<<<<<< HEAD
       heading: "World-Class Treatment for",
       highlightText: " Anyone, Anywhere",
       description:
         "HealthVistaHub partners with more than 275+ leading hospitals to bring flexible, affordable, online treatment to individuals and organizations worldwide.",
+=======
+      heading: "World-Class Learning for",
+      highlightText: " Anyone, Anywhere",
+      description:
+        "StudyHub partners with more than 275+ leading universities and companies to bring flexible, affordable, job-relevant online learning to individuals and organizations worldwide.",
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
       BtnText: "Learn More",
       BtnLink: "/",
     },
     {
       order: 1,
+<<<<<<< HEAD
       heading: "Free Consultation",
       description:
         "Save time and money! The HealthVistaHub is made to be easier to understand and fulfill needs.",
@@ -23,17 +31,33 @@ const LearningGridArray = [
       heading: "Our Treatment Methods",
       description:
         "HealthVista partners with more than 275+ leading hospitals for treatment",
+=======
+      heading: "Curriculum Based on Industry Needs",
+      description:
+        "Save time and money! The Belajar curriculum is made to be easier to understand and in line with industry needs.",
+    },
+    {
+      order: 2,
+      heading: "Our Learning Methods",
+      description:
+        "StudyHub partners with more than 275+ leading universities and companies to bring",
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
     {
       order: 3,
       heading: "Certification",
       description:
+<<<<<<< HEAD
         "HealthVista partners with more than 275+ leading hospitals for treatment",
+=======
+        "StudyHub partners with more than 275+ leading universities and companies to bring",
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
     {
       order: 4,
       heading: `Rating "Auto-grading"`,
       description:
+<<<<<<< HEAD
         "HealthVista partners with more than 275+ leading hospitals for treatment",
     },
     {
@@ -41,6 +65,15 @@ const LearningGridArray = [
       heading: "Chat with Us",
       description:
         "HealthVista partners with more than 275+ leading hospitals for treatment",
+=======
+        "StudyHub partners with more than 275+ leading universities and companies to bring",
+    },
+    {
+      order: 5,
+      heading: "Ready to Work",
+      description:
+        "StudyHub partners with more than 275+ leading universities and companies to bring",
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
   ];
 

@@ -16,10 +16,20 @@ const About = () => {
       <section className="bg-richblack-700">
         <div className="relative mx-auto flex w-11/12 max-w-maxContent flex-col justify-between gap-10 text-center text-white">
           <header className="mx-auto py-20 text-4xl font-semibold lg:w-[70%]">
+<<<<<<< HEAD
           Bringing Medical Care to Your Doorstep
             <HighlightText text={" We are the quickest"} />
             <p className="mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]">
             In today's fast-paced world, finding the time to visit a medical facility when you're feeling unwell can be a challenge. That's where our Home Doctor Service steps in - providing you with quality medical care in the comfort of your own home. Our dedicated team of experienced physicians is committed to delivering timely and compassionate healthcare services, ensuring your well-being is our top priority.
+=======
+            Driving Innovation in Online Education for a
+            <HighlightText text={" Brighter Future"} />
+            <p className="mx-auto mt-3 text-center text-base font-medium text-richblack-300 lg:w-[95%]">
+              StudyHub is at the forefront of driving innovation in online
+              education. We're passionate about creating a brighter future by
+              offering cutting-edge courses, leveraging emerging technologies,
+              and nurturing a vibrant learning community.
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
             </p>
           </header>
           <div className="sm:h-[70px] lg:h-[150px]"></div>
@@ -45,10 +55,27 @@ const About = () => {
                 Our Founding Story
               </h1>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
+<<<<<<< HEAD
               In today's fast-paced world, finding the time to visit a medical facility when you're feeling unwell can be a challenge. That's where our Home Doctor Service steps in - providing you with quality medical care in the comfort of your own home. Our dedicated team of experienced physicians is committed to delivering timely and compassionate healthcare services, ensuring your well-being is our top priority.
               </p>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
               In today's fast-paced world, finding the time to visit a medical facility when you're feeling unwell can be a challenge. That's where our Home Doctor Service steps in - providing you with quality medical care in the comfort of your own home. Our dedicated team of experienced physicians is committed to delivering timely and compassionate healthcare services, ensuring your well-being is our top priority.
+=======
+                Our e-learning platform was born out of a shared vision and
+                passion for transforming education. It all began with a group of
+                educators, technologists, and lifelong learners who recognized
+                the need for accessible, flexible, and high-quality learning
+                opportunities in a rapidly evolving digital world.
+              </p>
+              <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
+                As experienced educators ourselves, we witnessed firsthand the
+                limitations and challenges of traditional education systems. We
+                believed that education should not be confined to the walls of a
+                classroom or restricted by geographical boundaries. We
+                envisioned a platform that could bridge these gaps and empower
+                individuals from all walks of life to unlock their full
+                potential.
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
               </p>
             </div>
 
@@ -67,11 +94,19 @@ const About = () => {
               </h1>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
                 With this vision in mind, we set out on a journey to create an
+<<<<<<< HEAD
                 e-health platform that would revolutionize the way of treatment
                 . Our team of dedicated experts worked tirelessly to
                 develop a robust and intuitive platform that combines
                 cutting-edge technology with engaging content, fostering a
                 dynamic and interactive treatment experience.
+=======
+                e-learning platform that would revolutionize the way people
+                learn. Our team of dedicated experts worked tirelessly to
+                develop a robust and intuitive platform that combines
+                cutting-edge technology with engaging content, fostering a
+                dynamic and interactive learning experience.
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
               </p>
             </div>
             <div className="my-24 flex lg:w-[40%] flex-col gap-10">
@@ -79,7 +114,11 @@ const About = () => {
               Our Mission
               </h1>
               <p className="text-base font-medium text-richblack-300 lg:w-[95%]">
+<<<<<<< HEAD
               HealthVistaHub partners with more than 275+ leading hospitals to bring flexible, affordable, online treatment to individuals and organizations worldwide.
+=======
+              Our mission goes beyond just delivering courses online. We wanted to create a vibrant community of learners, where individuals can connect, collaborate, and learn from one another. We believe that knowledge thrives in an environment of sharing and dialogue, and we foster this spirit of collaboration through forums, live sessions, and networking opportunities.
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
               </p>
             </div>
           </div>
@@ -100,11 +139,19 @@ const About = () => {
       <div className="relative mx-auto my-20 flex w-11/12 max-w-maxContent flex-col items-center justify-between gap-8 bg-richblack-900 text-white">
         {/* Reviws from Other Learner */}
         <h1 className="text-center text-4xl font-semibold mt-8">
+<<<<<<< HEAD
           Reviews from others
         </h1>
         <ReviewSlider />
       </div>
       {/* <Footer /> */}
+=======
+          Reviews from other learners
+        </h1>
+        <ReviewSlider />
+      </div>
+      <Footer />
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     </div>
   )
 }

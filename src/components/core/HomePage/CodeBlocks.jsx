@@ -8,7 +8,11 @@ const CodeBlocks = ({position,heading,subheading,ctabtn1,ctabtn2,codeblock,backg
   return (
     <div className={`flex ${position} my-20 justify-between gap-10 `}>
       
+<<<<<<< HEAD
       <div className='lg:w-[50%] flex flex-col gap-8'>
+=======
+      <div className='w-[50%] flex flex-col gap-8'>
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
       {heading}
       <div className='text-richblack-300 font-bold'>
         {subheading}

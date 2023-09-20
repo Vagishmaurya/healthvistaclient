@@ -20,7 +20,11 @@ const LearningSection = () => {
             progress tracking, custom schedule and more.
         </div>
 
+<<<<<<< HEAD
         <div className='flex flex-col-reverse lg:flex-row items-center justify-center mt-5'>
+=======
+        <div className='flex items-center justify-center mt-5'>
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
             <img src={knowYourProgress} className='object-contain -mr-32' />
 
             <img src={compare_with_others} className='object-contain' />

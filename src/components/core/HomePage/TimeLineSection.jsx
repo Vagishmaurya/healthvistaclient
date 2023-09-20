@@ -8,23 +8,40 @@ import timelineImage from "../../../assets/Images/TimelineImage.png"
 const timeline = [
     {
         Logo:Logo1,
+<<<<<<< HEAD
         Heading:"Medical Consultations",
         Description:"Our doctors are available for medical consultations"
+=======
+        Heading:"Leadership",
+        Description:"Fully commited to the success company"
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
     {
         Logo:Logo2,
         Heading:"Responsibility",
+<<<<<<< HEAD
         Description:"User will always be our top priority"
+=======
+        Description:"Students will always be our top priority"
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
     {
         Logo:Logo3,
         Heading:"Flexibility",
+<<<<<<< HEAD
         Description:"The ability to connect anytime , anywhere"
+=======
+        Description:"The ability to switch is an important skills"
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
     {
         Logo:Logo4,
         Heading:"Solve the Problem",
+<<<<<<< HEAD
         Description:"We ensure you have access to the right treatments without any hassle"
+=======
+        Description:"Code your way to a solution"
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
     },
 ]
 const TimeLineSection = () => {

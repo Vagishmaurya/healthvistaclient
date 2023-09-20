@@ -4,11 +4,19 @@ import CourseCard from "./CourseCard";
 import HighlightText from "./HighlightText";
 
 const tabsName = [
+<<<<<<< HEAD
   "Mental Health",
   "Orthopaedics",
   "Metabolic Disorders",
   "Neurological Disorders",
   "Cancer Care",
+=======
+  "Free",
+  "New to coding",
+  "Most popular",
+  "Skills paths",
+  "Career paths",
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
 ];
 
 const ExploreMore = () => {
@@ -31,9 +39,15 @@ const ExploreMore = () => {
       <div>
         <div className="text-4xl font-semibold text-center my-10">
           Unlock the
+<<<<<<< HEAD
           <HighlightText text={" Power of HealthVistaHub"} />
           <p className="text-center text-richblack-300 text-lg font-semibold mt-1">
             Get Free Consultation with doctor
+=======
+          <HighlightText text={" Power of Code"} />
+          <p className="text-center text-richblack-300 text-lg font-semibold mt-1">
+            Learn to Build Anything You Can Imagine
+>>>>>>> 826390d4ec65052075b1ff973f3033a5571915f9
           </p>
         </div>
       </div>
